@@ -503,7 +503,7 @@ uglyURLs = true
     enableDarkMode = true
 
     # 默认模式
-    defaultTheme = "dark"
+    defaultTheme = "light"
     # 说明：light（浅色模式）或 dark（深色模式）
 
     # 是否隐藏模式切换开关
@@ -1298,7 +1298,7 @@ uglyURLs = true
     enableHighlight = true
 
     # 是否开启竖直滚动
-    enableOverflowY = true
+    enableOverflowY = false
     # 最大高度
     maxHeight = 20
     # 单位：em

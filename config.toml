@@ -642,18 +642,18 @@ uglyURLs = true
     # 说明：https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
-    utterancesRepo = ""
-    utterancesIssueTerm = "pathname"
+    enableUtterances = true
+    utterancesRepo = "fatFire/blog-comments"
+    utterancesIssueTerm = "title"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
     utterancesLabel = ""
     # 说明：https://utteranc.es/
 
     ## Gitalk
-    enableGitalk = true
-    gitalkClientID = "702ad677855a59a078ba"
-    gitalkClientSecret = "4245cdcadebdd054c4feec930fec426331c16715"
+    enableGitalk = false
+    gitalkClientID = ""
+    gitalkClientSecret = ""
     gitalkRepo = "blog-comments"
     gitalkOwner = "fatFire"
     gitalkAdmin = ["fatFire"]
